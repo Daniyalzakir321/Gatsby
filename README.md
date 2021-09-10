@@ -4,6 +4,13 @@
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
   </a>
 </p>
+
+1.  **Stripe Docs With GatsBy.**
+
+   [Stripe  GatsBy](https://www.gatsbyjs.com/tutorial/ecommerce-tutorial/)
+   [USeFul Repo](https://github.com/panacloud-modern-global-apps/jamstack-ecommerce/)
+   [Open GraphQL in GatsBy for Stripe Products Data](http://localhost:8000/__graphql)
+
 <h1 align="center">
   Gatsby's default starter
 </h1>
