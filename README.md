@@ -10,6 +10,10 @@
    [Stripe  GatsBy](https://www.gatsbyjs.com/tutorial/ecommerce-tutorial/)
    [USeFul Repo](https://github.com/panacloud-modern-global-apps/jamstack-ecommerce/)
    [Open GraphQL in GatsBy for Stripe Products Data](http://localhost:8000/__graphql)
+   [Stripe Custom Pre-Build UI](http://localhost:8000/https://stripe.com/docs/payments/integration-builder?client=react)
+   ### https://docs.netlify.com/cli/get-started/
+   ### npm install netlify-cli -g
+   ### Crete Netlify Function: netlify function:create payment 
 
 <h1 align="center">
   Gatsby's default starter
